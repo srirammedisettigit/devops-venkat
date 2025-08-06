@@ -1,2 +1,0 @@
-# devops-venkat
-code
